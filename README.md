@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/3dln/card-summary/main/profile-summary-card-output/dracula/0-profile-details.svg)
+![](https://raw.githubusercontent.com/3dln/cards-summary/main/profile-summary-card-output/dracula/0-profile-details.svg)
 
 ![](https://raw.githubusercontent.com/3dln/cards-summary/main/profile-summary-card-output/dracula/3-stats.svg)
 
