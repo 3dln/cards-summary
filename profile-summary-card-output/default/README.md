@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/3dln/cards-summary/main/profile-summary-card-output/default/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/3dln/cards-summary/main/profile-summary-card-output/default/4-productive-time.svg)
-```
-
-    
