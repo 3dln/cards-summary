@@ -25,6 +25,16 @@
 
 ---
 
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/3dln/cards-summary/main/profile-summary-card-output/apprentice/1-repos-per-language.svg)
+```
+
+    
+
+---
+
 ![](./3-stats.svg)
 
 ```
