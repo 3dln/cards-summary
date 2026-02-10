@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/3dln/cards-summary/main/profile-summary-card-output/prussian/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/3dln/cards-summary/main/profile-summary-card-output/prussian/4-productive-time.svg)
+```
+
+    
